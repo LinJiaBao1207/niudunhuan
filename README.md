@@ -8,4 +8,4 @@ matplotlib
 numpy
 
 软件效果图式
-![image](https://github.com/user-attachments/assets/0b68c75a-175c-46d7-a4ff-b91b45b54ea4)
+![image](https://github.com/user-attachments/assets/933fb1cc-3785-4bd6-828c-7373da2afeb7)
