@@ -52,3 +52,12 @@ Simulation and Analysis of Newton's Rings Interference Phenomenon Based on PyQt5
 ### Installation Command
 ```bash
 pip install PyQt5==5.15.9 matplotlib==3.7.1 numpy==1.24.3
+```
+
+### 贡献者
+
+- 集美大学诚毅学院 马毓珧
+- 集美大学诚毅学院 朱恬怡
+- 集美大学诚毅学院 王雅婷
+- 集美大学诚毅学院 林家宝
+- 集美大学诚毅学院 李启程
